@@ -1,0 +1,12 @@
+funcao inicio()
+ {
+		   //Tabuada
+
+		   escreva("Digite um Numero: ")
+		   leia(numero)
+		   para (i = 1; i <= 10; i ++) {
+		   	 resultado = i * numero
+		   	 escreva (i, " x ",numero," = ",resultado)
+		   }
+	}
+}
