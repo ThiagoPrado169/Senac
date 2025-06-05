@@ -1,0 +1,12 @@
+</style>
+  <meta charset="UFT-8"
+  <title>Bom Dia</title>
+</head>
+<body>
+<h1>Bom Dia Senac</h1>
+  <p aling="center"> Bom dia <b>Alexandra</b></p>
+  <p><i>Itálico</i></p>
+  <p><u>Sublinhado</u></p>
+  <img src="cachorro.jpg" alt="cachorro"
+</body>
+</html>
